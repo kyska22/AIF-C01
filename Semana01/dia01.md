@@ -13,12 +13,13 @@
 - **Procesamiento de Lenguaje Natural (NLP):** Área de AI enfocada en la interacción entre computadoras y el lenguaje humano, como chatbots o traducción automática.
 
 ## Tipos de aprendizaje:
+![Tipos de aprendizaje](img/1-3.png)
 - **Supervisado:** El modelo aprende a partir de datos etiquetados (por ejemplo, imágenes con etiquetas de “gato” o “perro”).
 - **No supervisado:** El modelo encuentra patrones o agrupaciones en datos no etiquetados.
 - **Reforzado:** El modelo aprende a tomar decisiones mediante prueba y error, recibiendo recompensas o castigos (usado en juegos o robots).
 
 ## Diferencias entre AI, ML y DL
-
+![diferencias](img/1-1.png)
 | **Concepto**       | **Definición**                                                                                     |
 |---------------------|---------------------------------------------------------------------------------------------------|
 | **Inteligencia Artificial (AI)** | Concepto amplio que abarca cualquier técnica que simule inteligencia.                               |
@@ -27,6 +28,7 @@
 
 
 ## Tipos de datos en modelos de AI:
+![Tipos de Datos](img/1-2.png)
 - **Etiquetados:** Datos con una clasificación específica, como “imagen de un perro.”
 - **No etiquetados:** Datos sin clasificación previa, como una carpeta de fotos sin descripciones.
 - **Tabulares:** Datos organizados en filas y columnas, como hojas de cálculo.
