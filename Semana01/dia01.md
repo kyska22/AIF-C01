@@ -1,7 +1,7 @@
 # Día 1: Introducción a la Inteligencia Artificial y el Aprendizaje Automático (AI/ML)
 
 ## Conceptos clave
-
+![Conceptos Claves](img/1-4.png)
 ### Definiciones:
 - **Inteligencia Artificial (AI):** Rama de la informática que busca crear sistemas capaces de realizar tareas que normalmente requieren inteligencia humana, como reconocimiento de voz, visión, traducción y toma de decisiones.
 - **Aprendizaje Automático (ML):** Subcampo de AI que permite a las máquinas aprender y mejorar de manera autónoma a partir de datos, sin necesidad de programación explícita.
@@ -17,10 +17,14 @@
 - **No supervisado:** El modelo encuentra patrones o agrupaciones en datos no etiquetados.
 - **Reforzado:** El modelo aprende a tomar decisiones mediante prueba y error, recibiendo recompensas o castigos (usado en juegos o robots).
 
-## Diferencias entre AI, ML y DL:
-- **AI:** Concepto amplio que abarca cualquier técnica que simule inteligencia.
-- **ML:** Método dentro de AI que se enfoca en aprendizaje basado en datos.
-- **DL:** Subcategoría de ML que utiliza redes neuronales profundas para problemas complejos.
+## Diferencias entre AI, ML y DL
+
+| **Concepto**       | **Definición**                                                                                     |
+|---------------------|---------------------------------------------------------------------------------------------------|
+| **Inteligencia Artificial (AI)** | Concepto amplio que abarca cualquier técnica que simule inteligencia.                               |
+| **Aprendizaje Automático (ML)**  | Método dentro de AI que se enfoca en aprendizaje basado en datos.                                   |
+| **Deep Learning (DL)**           | Subcategoría de ML que utiliza redes neuronales profundas para resolver problemas complejos.       |
+
 
 ## Tipos de datos en modelos de AI:
 - **Etiquetados:** Datos con una clasificación específica, como “imagen de un perro.”
