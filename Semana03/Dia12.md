@@ -1,4 +1,4 @@
-##Transparencia y Explicabilidad en AI  
+## Transparencia y Explicabilidad en AI  
 
 ### **Conceptos clave**  
 
