@@ -5,6 +5,12 @@
 ### **1. Importancia de la simulación de examen**  
 Realizar una simulación de examen permite evaluar el nivel de preparación, identificar áreas débiles y familiarizarse con el formato de preguntas del examen oficial.
 
+Para la preparacion del examen, utilice herramientas las siguientes herramientas:
+ - ChatGPT
+ - Anki
+ - UDEMY, simulados y un curso en ingles
+ - Whizlabs
+
 ### **2. Estrategia para resolver preguntas**  
 - **Leer cuidadosamente cada pregunta.** Identificar palabras clave.  
 - **Eliminar opciones incorrectas.** Reducir la cantidad de respuestas posibles.  
