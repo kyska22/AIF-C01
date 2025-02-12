@@ -79,3 +79,22 @@ A) Leer documentación sin hacer pruebas.
 B) Realizar simulaciones de examen y revisar áreas débiles.  
 C) Memorizar respuestas sin entenderlas.  
 D) Evitar repasar temas difíciles para no confundirse.  
+
+---
+
+## Respuestas:
+
+## 1️⃣ Pregunta 1: B) Marcar la pregunta y volver a ella después ✅
+Correcto. Marcar la pregunta y volver a ella después es una estrategia efectiva para no perder tiempo y enfocarse en preguntas más fáciles primero.
+
+## 2️⃣ Pregunta 2: B) AWS Skill Builder ✅
+Correcto. AWS Skill Builder ofrece cursos y exámenes de práctica oficiales para certificaciones de AWS.
+
+## 3️⃣ Pregunta 3: B) Amazon SageMaker Clarify ✅
+Correcto. SageMaker Clarify es la herramienta ideal para estudiar AI Responsable, ya que permite detectar sesgos en modelos de Machine Learning.
+
+## 4️⃣ Pregunta 4: A) AWS Whitepapers ✅
+Correcto. AWS Whitepapers proporciona documentación oficial con buenas prácticas para prepararse para certificaciones.
+
+## 5️⃣ Pregunta 5: B) Realizar simulaciones de examen y revisar áreas débiles ✅
+Correcto. Hacer simulaciones y analizar errores es la mejor forma de medir el nivel de preparación y reforzar conocimientos antes del examen.
