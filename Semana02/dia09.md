@@ -141,4 +141,51 @@ El BLEU es útil porque permite comparar múltiples descripciones de referencia 
     - Presentar los logros y las áreas de mejora del modelo utilizando métricas comprensibles para equipos no técnicos.  
     - Relacionar los resultados técnicos con beneficios de negocio claros.  
       - **Ejemplo:** Mostrar cómo el modelo redujo los costos operativos en un 15%.
+---
+---
+
+# Conceptos clave  
+
+## ¿Por qué es importante la evaluación de modelos?  
+La evaluación mide qué tan bien un modelo cumple con su objetivo, asegurando que sea preciso, relevante y confiable antes de implementarlo en producción.  
+
+## Métricas comunes de evaluación  
+La elección de las métricas depende del tipo de tarea que realiza el modelo.  
+
+### A) Tareas de Clasificación (Texto, Imágenes, etc.)  
+- **Precisión (Accuracy):** Proporción de predicciones correctas sobre el total.  
+  - *Ejemplo:* Un modelo que clasifica correos electrónicos como spam o no spam.  
+- **Recall (Sensibilidad):** Qué tan bien el modelo identifica los verdaderos positivos.  
+  - *Ejemplo:* Detectar fraudes financieros.  
+- **F1-Score:** Media armónica de precisión y recall.  
+  - *Ejemplo:* Detección de enfermedades raras en un conjunto desbalanceado.  
+
+### B) Tareas de Generación de Texto  
+- **BLEU (Bilingual Evaluation Understudy):** Mide la similitud entre texto generado y texto de referencia.  
+  - *Ejemplo:* Evaluar la calidad de traducciones automáticas.  
+- **ROUGE (Recall-Oriented Understudy for Gisting Evaluation):** Mide la superposición entre un texto generado y un resumen de referencia.  
+  - *Ejemplo:* Evaluar resúmenes automáticos.  
+- **Perplexity:** Mide qué tan bien un modelo predice la siguiente palabra en un texto.  
+  - *Ejemplo:* Evaluar la fluidez de un modelo generador de texto.  
+
+### C) Tareas de Regresión (Valores continuos)  
+- **Error Cuadrático Medio (MSE):** Penaliza los errores grandes al cuadrar las diferencias.  
+  - *Ejemplo:* Predecir precios de casas.  
+- **R² (Coeficiente de determinación):** Mide qué tan bien las predicciones se ajustan a los datos reales.  
+  - *Ejemplo:* Predecir la temperatura diaria.  
+
+## Evaluación específica para modelos fundacionales  
+- **Cohesión contextual:** Qué tan bien el modelo comprende y mantiene el contexto en tareas generativas.  
+- **Capacidad multitarea:** Evaluar el rendimiento en tareas diversas (traducción, resumen, clasificación, etc.).  
+- **Seguridad y robustez:** Medir la capacidad del modelo para evitar respuestas dañinas o inadecuadas.  
+
+## Ejemplos de uso en AWS  
+
+### Amazon SageMaker  
+- Proporciona herramientas como *SageMaker Experiments* para rastrear y comparar métricas de rendimiento.  
+  - *Ejemplo:* Comparar varias versiones de un modelo generativo ajustado con métricas BLEU y ROUGE.  
+
+### Amazon SageMaker Model Monitor  
+- Supervisa el rendimiento del modelo en producción para detectar desviaciones en los datos de entrada o salida.  
+  - *Ejemplo:* Detectar si un modelo empieza a generar respuestas irrelevantes debido a un cambio en los datos de entrada.  
 
