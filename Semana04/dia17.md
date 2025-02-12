@@ -73,3 +73,26 @@ A) Modelos generativos como Stable Diffusion
 B) Árboles de decisión  
 C) Análisis de regresión  
 D) Modelos de clasificación estándar
+
+---
+---
+
+## Respuestas
+
+### 1️⃣ Pregunta 1: B) Generación de texto con AI ✅
+Correcto. Una de las aplicaciones principales de los modelos fundacionales es la generación de texto, utilizada en chatbots, resúmenes automáticos y asistentes de escritura.
+
+### 2️⃣ Pregunta 2: B) Fine-Tuning ✅
+Correcto. El Fine-Tuning permite personalizar un modelo fundacional con datos específicos, mejorando su rendimiento en una tarea concreta.
+
+### 3️⃣ Pregunta 3: B) Amazon Bedrock ✅
+Correcto. Amazon Bedrock permite acceder a modelos fundacionales sin gestionar infraestructura, facilitando la integración de AI generativa en aplicaciones.
+
+### 4️⃣ Pregunta 4: B) Temperatura ✅
+Correcto. Ajustar la temperatura en un modelo fundacional permite controlar la aleatoriedad y creatividad en las respuestas generadas.
+
+### 5️⃣ Pregunta 5: A) Modelos generativos como Stable Diffusion ✅
+Correcto. Stable Diffusion y DALL·E son ejemplos de modelos generativos que crean imágenes a partir de descripciones de texto.
+
+
+
