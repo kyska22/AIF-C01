@@ -75,3 +75,22 @@ A) Fine-Tuning
 B) Defensa adversarial  
 C) Transfer Learning  
 D) Ingeniería de Prompts
+
+---
+
+## Respuestas
+
+### 1️⃣ Pregunta 1: B) Equidad ✅
+Correcto. El principio de equidad busca garantizar que los modelos de IA no discriminen a ciertos grupos debido a sesgos en los datos o en el entrenamiento del modelo.
+
+### 2️⃣ Pregunta 2: B) Amazon SageMaker Clarify ✅
+Correcto. SageMaker Clarify es una herramienta de AWS diseñada para detectar y analizar sesgos en modelos de Machine Learning, asegurando decisiones más justas.
+
+### 3️⃣ Pregunta 3: B) Aplicar cifrado y control de accesos ✅
+Correcto. El cifrado y el control de accesos protegen los datos sensibles en modelos de AI, asegurando que solo usuarios autorizados puedan acceder a ellos.
+
+### 4️⃣ Pregunta 4: B) Amazon SageMaker Model Monitor ✅
+Correcto. SageMaker Model Monitor permite supervisar modelos en producción y detectar desviaciones en su rendimiento o predicciones.
+
+### 5️⃣ Pregunta 5: B) Defensa adversarial ✅
+Correcto. La defensa adversarial protege un modelo contra intentos de manipulación mediante técnicas que refuerzan su resistencia a ataques.
